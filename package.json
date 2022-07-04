@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-redux",
+  "version": "0.0.1",
+  "description": "React Native Template with Redux and Typescript",
+  "repository": "https://github.com/hvillacrusis/react-native-template-redux.git",
+  "author": "Harold Villacrusis",
+  "license": "MIT"
+}
